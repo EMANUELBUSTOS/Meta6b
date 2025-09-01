@@ -123,7 +123,7 @@
 
   <!-- Registro de usuarios: Maicol Quintero -->
   <div class="bg-white p-6 rounded-xl shadow hover:shadow-lg transform hover:-translate-y-2 transition text-center">
-    <img src="registro.png" alt="Diseño de registro de usuarios" class="w-full h-auto rounded mb-4">
+    <img src="i6.jpeg" alt="Diseño de registro de usuarios" class="w-full h-auto rounded mb-4">
     <p class="italic text-gray-600 mb-2">Formulario de registro sencillo con nombre, correo y contraseña, validación en tiempo real.</p>
     <p class="font-bold text-gray-800">Autor: Maicol Quintero</p>
   </div>
